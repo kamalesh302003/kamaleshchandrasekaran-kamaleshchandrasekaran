@@ -1,4 +1,4 @@
-# Hi, I'm Kamalesh 👋
+# Hi, I'm Kamalesh  Chandrasekaran👋
 
 🎓 MSc Computer Science Student  
 💻 Skills: Python, Flask, MySQL, REST APIs  
