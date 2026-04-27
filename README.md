@@ -1,8 +1,8 @@
 # Hi, I'm Kamalesh  Chandrasekaran👋
 
 🎓 MSc Computer Science Student  
-💻 Skills: Python, Flask, MySQL, REST APIs  
-📌 Interests: Backend Development | AI | Web Development  
+💻 Skills: Python, Flask, MySQL, REST APIs , FAST APIS 
+📌 Interests: Backend Development | AI | Software Development  
 
 ---
 
