@@ -17,6 +17,7 @@ Currently learning and building real-world projects to improve my development sk
 - Flask
 - MySQL
 - REST APIs
+  
 
 ---
 
